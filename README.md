@@ -233,12 +233,16 @@ The application allows users to enter a movie review and receive:
 - Confidence score
 ## Repository Structure
 
+## Repository Structure
+
 ```text
 distilbert-imdb-sentiment/
 │
 ├── app.py
 ├── requirements.txt
 ├── README.md
+├── LICENSE
+├── .gitignore
 └── DistilBERT_Sentiment_Classifier.ipynb
 ```
 ## Technologies Used
