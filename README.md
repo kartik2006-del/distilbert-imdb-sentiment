@@ -238,7 +238,8 @@ distilbert-imdb-sentiment/
 │
 ├── app.py
 ├── requirements.txt
-└── README.md
+├── README.md
+└── DistilBERT_Sentiment_Classifier.ipynb
 ```
 ## Technologies Used
 
